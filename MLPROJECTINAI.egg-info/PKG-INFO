@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLPROJECTINAI
+Version: 0.0.1
+Author: anni
+Author-email: 2022ume1815@mnit.ac.in
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
